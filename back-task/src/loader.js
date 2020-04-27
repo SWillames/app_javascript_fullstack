@@ -1,1 +1,2 @@
-require('./config/server')
+import './config/server';
+import './config/database'
